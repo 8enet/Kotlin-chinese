@@ -57,7 +57,7 @@
        * [Comparison to Scala][44]
 * tutorials
     * Getting Started
-        * [Getting Started with IntelliJ IDEA]
+        * [Getting Started with IntelliJ IDEA][45]
         * Getting Started with Eclipse
         * Working with the Command Line Compiler
         * Working with Build Tools
