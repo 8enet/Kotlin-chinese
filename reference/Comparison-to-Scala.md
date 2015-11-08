@@ -1,0 +1,1 @@
+原文 http://www.kotlinlang.org/docs/reference/comparison-to-scala.html
