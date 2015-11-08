@@ -99,7 +99,6 @@ val p: String by lazy {
 
 
 ### 扩展函数
-检查一个数字在某个范围内使用`in` 操作符:
 ```kotlin
 fun String.spaceToCamelCase() { ... }
 
